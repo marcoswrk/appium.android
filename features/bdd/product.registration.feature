@@ -24,6 +24,7 @@ Scenario Outline: Decrease product amount
     When Decrease this product amount "<amount>"
     Then Product amount will be decreased "<newValue>" successfully
 
+
 Examples:
     | amount | newValue |
     | 3  | 2.0 |
