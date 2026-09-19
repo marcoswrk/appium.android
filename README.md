@@ -28,7 +28,6 @@ Projeto de estudo criado para praticar automação de testes em um aplicativo An
 - Appium driver `uiautomator2`;
 - ADB disponível no `PATH`.
 
-
 ## Estrutura
 
 ```text

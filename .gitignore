@@ -13,3 +13,12 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# IDE and local assistant metadata
+.idea/
+.continue/
+.refact/
+
+# Generated Android packages
+*.apk
+*.aab
